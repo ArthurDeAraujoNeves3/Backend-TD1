@@ -1,10 +1,10 @@
-# Backend-TD1
+# TD1
 
-Repositório com a comprovação da conclusão do curso, junto com a resolução das questões fornecidas no curso
-
-## CURSO 1
+## Git e Github para iniciantes
+![Comprovação do término do curso Git e Github para iniciantes](./docs/iniciantes.png)
 
 ## Git: Become an Expert in Git & GitHub in 4 Hours
+![Comprovação do término do curso Git: Become an Expert in Git & GitHub in 4 Hours](./docs/4hours.png)
 
 ## Perguntas
 
